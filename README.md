@@ -1,3 +1,4 @@
+# Notepad funcionability
 This is a custom Notepad application built using Python's Tkinter library. It features a simple text editor interface with support for basic text operations like saving, opening files, and modifying text. The application also includes additional functionalities such as customizable themes, window resizing, and enhanced text editing features like cutting, copying, and deleting entire lines.
 
 + **Basic Text Editing:**
