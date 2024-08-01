@@ -10,8 +10,8 @@ This is a custom Notepad application built using Python's Tkinter library. It fe
   + Easily manage text files with undo/redo functionality.
 
 + **Customizable Themes:**
-+ Switch between dark and light themes to suit your preferences or environment.
-+ Custom background and text colors for a personalized experience.
+  + Switch between dark and light themes to suit your preferences or environment.
+  + Custom background and text colors for a personalized experience.
 
 + **Window Management:**
   + Toggle the "Always On Top" feature to keep the Notepad window visible above other applications.
